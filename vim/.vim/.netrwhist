@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/christian/Projects/graphql/customer-base'
+let g:netrw_dirhist_2='/Users/christian/Projects/cs1575/hw3'
+let g:netrw_dirhist_3='/Users/christian/.vim'
