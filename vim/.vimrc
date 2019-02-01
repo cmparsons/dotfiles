@@ -57,8 +57,7 @@ endfunction
 " 2. UI
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-set background=dark
-colorscheme hybrid_reverse
+colorscheme nord
 syntax enable           " enable syntax processing
 
 set noerrorbells
@@ -86,5 +85,3 @@ let g:ctrlp_cmd = 'CtrlP'
 
 let g:NERDSpaceDelims = 1            " Add one space to start line comment
 let g:javascript_plugin_jsdoc = 1    " syntax highlighting for JSDocs
-
-
